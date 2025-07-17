@@ -33,7 +33,6 @@ button:hover {cursor: pointer;}
 
 div {position: relative;}
 .nav {padding-bottom: 50%;}
-.validation:hover {cursor: pointer;}
 #colones {column-count: 2;}
 #circuits:hover #img-circuit-détaillé {display: block;}
 #tgv {
@@ -55,12 +54,6 @@ iframe {
 	box-shadow: 3px 3px 3px #000000;
 	border-radius: 20px;
 	z-index: 2;
-}
-#iframe-validation {
-	aspect-ratio: 61 / 10;
-	opacity: 100%;
-	box-shadow: 0 0;
-	float: left;
 }
 
 img {
@@ -127,13 +120,6 @@ table {
 	box-shadow: 3px 3px 3px #000000;
 	width: 100%;
 }
-#table-validation {
-	border: 0;
-	width: 25%;
-	margin: auto;
-	box-shadow: 0 0;
-	background: transparent;
-}
 #table-réseaux-sociaux {
 	border: 0;
 	background-color: transparent;
@@ -144,11 +130,6 @@ td {
 	border: 1px #4974a5 outset;
 	border-radius: 15px;
 	box-shadow: 1px 1px 1px #000000;
-}
-#table-validation td {
-	border: 0;
-	box-shadow: 0 0;
-	padding: 5%;
 }
 .td-image {
 	border: 0;
